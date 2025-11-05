@@ -6,6 +6,7 @@ Minimal, **hızlı açılan** bir web başlangıç kiti 🚀
 
 ### 📁 Yapı
 
+```markdown
 web-starter/
 ├─ public/
 ├─ src/
